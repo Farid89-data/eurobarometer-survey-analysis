@@ -1,0 +1,32 @@
+# Eurobarometer Survey Analysis - Dependencies
+# ==============================================
+# Python version: 3.8+
+# Install with: pip install -r requirements.txt
+
+# Core Data Processing
+pandas>=1.5.0          # Data manipulation and analysis
+numpy>=1.23.0          # Numerical computing and arrays
+
+# Excel File Handling
+openpyxl>=3.9.0        # Read/write Excel 2010+ files
+xlrd>=2.0.1            # Legacy Excel support
+
+# Data Visualization
+matplotlib>=3.6.0      # Plotting and visualization
+seaborn>=0.12.0        # Statistical data visualization
+plotly>=5.10.0         # Interactive visualizations (optional)
+
+# Statistical Analysis
+scipy>=1.9.0           # Scientific computing and statistics
+scikit-learn>=1.1.0    # Machine learning utilities
+
+# Code Quality & Development (Optional)
+black>=22.10.0         # Code formatter
+flake8>=5.0.0          # Linting
+mypy>=0.990            # Static type checking
+pytest>=7.2.0          # Testing framework
+pytest-cov>=4.0.0      # Coverage reporting
+
+# Additional Utilities
+python-dateutil>=2.8.2 # Date utilities
+pytz>=2022.6           # Timezone support

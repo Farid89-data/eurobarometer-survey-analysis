@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-05-12T01:33:12.581330",
+  "metadata": {
+    "survey": "Eurobarometer Standard 99",
+    "wave": "99.4",
+    "fieldwork": "31/05 - 25/06/2023",
+    "sample_size": 27901,
+    "countries": 27,
+    "weighting": "Post-stratification weighting (age, gender, education)"
+  },
+  "data_quality": {
+    "completeness_percentage": 71.09,
+    "sheets_loaded": 6,
+    "total_records": 8624
+  },
+  "analysis": {
+    "age_distribution": {
+      "Total": 26425.0,
+      "15-24": 0.12,
+      "25-39": 5821.0
+    },
+    "quality_metrics": {
+      "completeness_percentage": 71.09,
+      "sheets_loaded": 6,
+      "total_records": 8624
+    }
+  },
+  "sheets_processed": [
+    "B",
+    "D11",
+    "D70",
+    "D71_1",
+    "D71_2",
+    "D71_3"
+  ]
+}
