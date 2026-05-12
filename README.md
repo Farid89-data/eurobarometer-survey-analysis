@@ -434,6 +434,14 @@ For detailed troubleshooting, see `docs/TROUBLESHOOTING.md`
 - **Visualization Generation:** < 10 seconds (3 charts)
 - **Memory Footprint:** ~150 MB (all data in memory)
 
+  ## Outputs
+  <img width="3572" height="1764" alt="data_quality_metrics" src="https://github.com/user-attachments/assets/5d0c2036-d95b-4ca6-adef-c354aa9490dc" />
+<img width="1349" height="694" alt="Dash_P2" src="https://github.com/user-attachments/assets/29c84552-6fe9-4462-ae6a-c91d64a0c9c7" />
+<img width="1349" height="1242" alt="Dash_P1" src="https://github.com/user-attachments/assets/d71fb761-5ef0-4dd0-9cb6-86d96eca9cf4" />
+<img width="2970" height="1770" alt="analysis_summary" src="https://github.com/user-attachments/assets/ee9900f8-a18b-4089-a1cd-e7b7a01d3046" />
+<img width="1703" height="1767" alt="age_distribution" src="https://github.com/user-attachments/assets/1ec983f7-f510-47a1-80e1-1256fbd47321" />
+
+
 ## 🔐 Data Privacy & Ethics
 
 This analysis:
